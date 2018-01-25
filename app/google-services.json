@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "18712979239",
+    "firebase_url": "https://applirestau-ynov.firebaseio.com",
+    "project_id": "applirestau-ynov",
+    "storage_bucket": "applirestau-ynov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18712979239:android:0f062967e82eda77",
+        "android_client_info": {
+          "package_name": "com.peron.nicolas.applirestau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18712979239-nnt7ls6tajp8mslnvu8n4299tgsrode5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdL39aN4MJIfqKVE5hXEA0IzDvBztZYE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
